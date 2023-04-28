@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 80
+exclude = ".git,.gitignore,__pychache__,venv"
+ignore = E302, W292
